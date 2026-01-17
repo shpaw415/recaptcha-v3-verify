@@ -6,12 +6,13 @@ A lightweight TypeScript library for verifying Google reCAPTCHA Enterprise token
 
 ## Installation
 
-```bash
-npm install recaptcha-v3-verify
-```
-
-```bash
-bun add recaptcha-v3-verify
+```json
+// to your package.json
+{
+  "dependencies": {
+    "recaptcha-v3-verify": "https://github.com/shpaw415/recaptcha-v3-verify.git"
+  }
+}
 ```
 
 ## Usage
